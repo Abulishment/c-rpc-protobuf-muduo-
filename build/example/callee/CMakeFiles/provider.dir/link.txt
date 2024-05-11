@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/provider.dir/userservice.cc.o CMakeFiles/provider.dir/__/user.pb.cc.o  -o ../../../bin/provider   -L/home/abulish/clang/rpc/rpc/lib  -Wl,-rpath,/home/abulish/clang/rpc/rpc/lib:/home/abulish/clang/rpc/rpc/build/src ../../src/libmprpc.so -lprotobuf 
